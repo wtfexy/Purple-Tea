@@ -1,0 +1,29 @@
+{
+    "manifest": {
+        "author": "Exy#0800",
+        "version": "1.0.0",
+        "name": "Purple Tea"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": -14218445,
+        "mention_highlight": -1840250765,
+        "statusbar": -13955784,
+        "active_channel": -12713894,
+        "input_background": -14677717,
+        "background": -13562048,
+        "accent": -9034342
+    },
+    "colors": {
+        "link": -9237295,
+        "uikit_btn_bg_color_selector_green": -7853647,
+        "uikit_btn_bg_color_selector_red": -10281342,
+        "link_500": -9627757
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -16747749,
+        "ic_status_dnd_16dp": -65536
+    },
+    "raws": {}
+}
