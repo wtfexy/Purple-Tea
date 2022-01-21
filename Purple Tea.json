@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Exy#0800",
         "version": "1.0.0",
-        "name": "Purple Tea"
+        "name": "Purple Tea",
+        "updater": "https:\/\/raw.githubusercontent.com\/wtfexy\/Purple-Tea\/main\/Purple%20Tea.json"
     },
     "background": {},
     "fonts": {},
